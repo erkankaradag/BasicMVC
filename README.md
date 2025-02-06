@@ -18,13 +18,6 @@ Bu projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 - .NET 6.0 veya daha yüksek bir sürüm (ASP.NET Core 6.0 ve sonrası)
 - Visual Studio veya Visual Studio Code (isteğe bağlı)
 
-### Adım 1: Projeyi İndirme
-
-Bu projeyi Git ile veya dosyayı indirerek bilgisayarınıza alabilirsiniz.
-
-```bash
-git clone https://github.com/yourusername/BasicMVC.git
-
 ### Dosya Yapısı
 /BasicMVC
 │
